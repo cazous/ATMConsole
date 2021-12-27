@@ -1,0 +1,8 @@
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\bin\Debug\ATMConsole.exe.config
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\bin\Debug\ATMConsole.exe
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\bin\Debug\ATMConsole.pdb
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\obj\Debug\ATMConsole.csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\obj\Debug\ATMConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\obj\Debug\ATMConsole.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\obj\Debug\ATMConsole.exe
+C:\Users\Home\source\repos\ATMConsole\ATMConsole\obj\Debug\ATMConsole.pdb
